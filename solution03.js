@@ -1,1 +1,3 @@
-
+function closeCurrentTab() {
+  window.close();
+}
